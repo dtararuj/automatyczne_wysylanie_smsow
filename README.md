@@ -1,4 +1,4 @@
-# narzedzia_ds
+# automatyczne wysylanie smsow
 
 ## _skrypt skrypt smsy_
 
