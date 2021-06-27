@@ -1,6 +1,6 @@
 # automatyczne wysylanie smsow
 
-## _skrypt skrypt smsy_
+## _skrypt smsy_
 
 Ten skrypt sluzy do automatycznego wysylania smsy przez platforme [twilio](https://www.twilio.com)
 Dzieki temu mozemy:
